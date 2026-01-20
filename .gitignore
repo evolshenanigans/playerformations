@@ -1,0 +1,14 @@
+# --- DATA (DO NOT UPLOAD) ---
+*.xlsx
+*.csv
+*.xls
+*.png
+
+# --- NOTEBOOKS (DO NOT UPLOAD) ---
+*.ipynb
+
+# --- JUNK ---
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
